@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ctiy" label="Ctiy" language="en" table="x_328712_iplookup_ipaddressinfo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ctiy</element>
+            <help/>
+            <hint/>
+            <label>Ctiy</label>
+            <language>en</language>
+            <name>x_328712_iplookup_ipaddressinfo</name>
+            <plural>Ctiys</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-17 08:19:36</sys_created_on>
+            <sys_id>79104a18db2133008507f36f29961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Ctiy</sys_name>
+            <sys_package display_value="IPLookup" source="x_328712_iplookup">6b0c5786db9133008507f36f299619de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">6b0c5786db9133008507f36f299619de</sys_scope>
+            <sys_update_name>sys_documentation_x_328712_iplookup_ipaddressinfo_ctiy_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-17 08:19:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
